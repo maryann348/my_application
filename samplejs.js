@@ -1,2 +1,2 @@
 var a = "HELOOOO WOOORLD"
-console.log ("a")
+console.log (a)
